@@ -2,7 +2,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { AppRoutingModule } from './app-routing.module';
-import { FormsModule } from '@angular/forms';
+//import { FormsModule } from '@angular/forms';
 import { AppComponent } from './app.component';
 import { TimeLineComponent } from './time-line/time-line.component';
 import { DetalleRequerimientoComponent } from './detalle-requerimiento/detalle-requerimiento.component';
@@ -11,7 +11,6 @@ import { DetalleRequerimientoComponent } from './detalle-requerimiento/detalle-r
   declarations: [
     AppComponent,
     TimeLineComponent,
-    FormsModule,
     DetalleRequerimientoComponent,
   ],
   imports: [
