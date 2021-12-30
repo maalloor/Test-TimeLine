@@ -294,15 +294,15 @@ line-height: 1.6;
 }
 
 @media only screen and (min-width: 768px) {
-.cd-horizontal-timeline .events-content h2 {
-    font-size: 7rem;
-}
+    .cd-horizontal-timeline .events-content h2 {
+        font-size: 7rem;
+    }
 
-.cd-horizontal-timeline .events-content em {
-    font-size: 2rem;
-}
+    .cd-horizontal-timeline .events-content em {
+        font-size: 2rem;
+    }
 
-.cd-horizontal-timeline .events-content p {
-    font-size: 1.8rem;
-}
+    .cd-horizontal-timeline .events-content p {
+        font-size: 1.8rem;
+    }
 }
